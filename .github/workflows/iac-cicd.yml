@@ -39,9 +39,8 @@ jobs:
 
 
 
-# deploy-active-prod.yml
+# deploy-active-prod.ym
 # deploy-passive-prod.yml
 # promote-passive-to-active.yml
-
 
 # cicd-passive-prod.yml
